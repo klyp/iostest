@@ -2,9 +2,9 @@
 
 ### Overview
 
-The Android Developer Test is a simple test we give our prospective Android developers to see how they do given a coding task.
+The iOS Developer Test is a simple test we give our prospective iOS developers to see how they do given a coding task.
 
-The premise is simple, create a simple app that performs a search on Rotten Tomatoes using the Search API for movies containing the word: “Android”.
+The premise is simple, create a simple app that performs a search on Rotten Tomatoes using the Search API for movies containing the word: “Apple”.
 
 The output should be a ListView that displays each matching movies details (title, year, runtime) on a page.
 
@@ -14,7 +14,7 @@ The output should be a ListView that displays each matching movies details (titl
 ### Instructions
 
 1. Clone this repository to your Github account (don't fork it please)
-2. Create your android app source files, commit it and then push it to Github (please include a generated APK)
+2. Create your iOS app source files, commit it and then push it to Github
 3. Email us a link to your completed code
 4. You're done!
 
